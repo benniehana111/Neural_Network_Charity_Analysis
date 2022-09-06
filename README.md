@@ -4,17 +4,17 @@
 
 This analysis uses deep neural networks to create a binary classifier that can predict whether charities applying for funding from Alphabet Soup will be successful. It employs a dataset with more than 34,000 organizations which have previously received funding from Alphabet Soup. The dataset includes the following variables for each charity:
 
-EIN and NAME — Identification columns
-APPLICATION_TYPE* — Alphabet Soup application type
-AFFILIATION* — Affiliated sector of industry
-CLASSIFICATION* — Government organization classification
-USE_CASE* — Use case for funding
-ORGANIZATION* — Organization type
-STATUS* — Active status
-INCOME_AMT* — Income classification
-SPECIAL_CONSIDERATIONS* — Special consideration for application
-ASK_AMT* — Funding amount requested
-IS_SUCCESSFUL — Was the money used effectively
+EIN and NAME — Identification columns 
+APPLICATION_TYPE* — Alphabet Soup application type 
+AFFILIATION* — Affiliated sector of industry 
+CLASSIFICATION* — Government organization classification 
+USE_CASE* — Use case for funding 
+ORGANIZATION* — Organization type 
+STATUS* — Active status 
+INCOME_AMT* — Income classification 
+SPECIAL_CONSIDERATIONS* — Special consideration for application 
+ASK_AMT* — Funding amount requested 
+IS_SUCCESSFUL — Was the money used effectively 
 
 
 ## Results
