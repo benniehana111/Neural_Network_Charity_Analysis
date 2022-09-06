@@ -23,41 +23,41 @@ The analysis employed TensorFlow to build deep neural network models with nine f
 
 Four model runs were conducted, with the following run parameters:
 
-1) AlphabetSoupCharity
-APPLICATION_TYPE binned into 9 values.
-CLASSIFICATION binned into 6 values.
-First hidden layer with 80 nodes, RELU activation function.
-Second hidden layer with 30 nodes, RELU activation function.
-Output layer used SIGMOID activation function.
-Loss: 0.556
+1) AlphabetSoupCharity  
+APPLICATION_TYPE binned into 9 values.  
+CLASSIFICATION binned into 6 values.  
+First hidden layer with 80 nodes, RELU activation function.  
+Second hidden layer with 30 nodes, RELU activation function.  
+Output layer used SIGMOID activation function.  
+Loss: 0.556  
 Accuracy: 0.727
 
-2) AlphabetSoupCharity_Optimization_1
-APPLICATION_TYPE binned into 9 values
-CLASSIFICATION and STATUS variables deleted.
-First hidden layer with 50 nodes, RELU activation function.
-Second hidden layer with 20 nodes, RELU activation function.
-Output layer used SIGMOID activation function.
-Loss: 0.572
+2) AlphabetSoupCharity_Optimization_1  
+APPLICATION_TYPE binned into 9 values  
+CLASSIFICATION and STATUS variables deleted.  
+First hidden layer with 50 nodes, RELU activation function.  
+Second hidden layer with 20 nodes, RELU activation function.  
+Output layer used SIGMOID activation function.  
+Loss: 0.572  
 Accuracy: 0.719
 
-3) AlphabetSoupCharity_Optimization_2
-APPLICATION_TYPE binned into 13 values.
-CLASSIFICATION binned into 13 values.
-First hidden layer with 100 nodes, RELU activation function.
-Second hidden layer with 50 nodes, RELU activation function.
-Output layer used SIGMOID activation function.
-Loss: 0.556
+3) AlphabetSoupCharity_Optimization_2  
+APPLICATION_TYPE binned into 13 values.  
+CLASSIFICATION binned into 13 values.  
+First hidden layer with 100 nodes, RELU activation function.  
+Second hidden layer with 50 nodes, RELU activation function.  
+Output layer used SIGMOID activation function.  
+Loss: 0.556  
 Accuracy: 0.726
 
-4) AlphabetSoupCharity_Optimization_3
-APPLICATION_TYPE binned into 13 values.
-CLASSIFICATION binned into 17 values.
-First hidden layer with 190 nodes, RELU activation function.
-Second hidden layer with 50 nodes, RELU activation function.
-Third hidden layer with 10 nodes, RELU activation function.
-Output layer used SIGMOID activation function.
-Loss: 0.568
+4) AlphabetSoupCharity_Optimization_3  
+APPLICATION_TYPE binned into 13 values.  
+CLASSIFICATION binned into 17 values.  
+First hidden layer with 190 nodes, RELU activation function.  
+Second hidden layer with 50 nodes, RELU activation function.  
+Third hidden layer with 10 nodes, RELU activation function.  
+Output layer used SIGMOID activation function.  
+Loss: 0.568  
 Accuracy: 0.728
 
 ## Summary
